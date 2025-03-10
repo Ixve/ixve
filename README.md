@@ -5,15 +5,6 @@
 <a href="https://github.com/Ixve" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-
-<div align="center">
-<h3>Programming Languages</h3>
-<img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5%20-111111.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
-</div>
-
-
 <div align="center">
 <h3>Github Stats</h3>
   <div><img src="https://komarev.com/ghpvc/?username=Ixve&label=PROFILE+VIEWS&color=grey"/></div>
