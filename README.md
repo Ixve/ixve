@@ -1,7 +1,6 @@
 <div align="center">
 <h3>Contact Information</h3>
 <a href="https://discord.com/users/713492710786597004" target"blank_"><img src="https://img.shields.io/badge/@webasm%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="mailto:fentanyl@duck.com" target"blank_"><img src="https://shields.io/badge/fentanyl%40duck.com%20-111111.svg?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
 <a href="https://github.com/Ixve" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
